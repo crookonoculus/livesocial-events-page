@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "events": [
     {
       "image": "sunday-social-big-event-flyer.jpg",
@@ -8,6 +8,10 @@
     {
       "image": "savoy-big-event-flyer.jpg",
       "scene": "Savoy"
+    },
+    {
+      "image": "lsvr-karaoke-room.png",
+      "scene": "LSVR Karaoke"
     }
   ]
 }
