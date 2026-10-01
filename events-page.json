@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "image": "sunday-social-big-event-flyer.jpg",
+      "scene": "SundaySocialMentalHealth"
+    },
+    {
+      "image": "savoy-big-event-flyer.jpg",
+      "scene": "Savoy"
+    }
+  ]
+}
